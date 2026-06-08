@@ -29,10 +29,32 @@ Aplicación gráfica moderna, rápida y multiplataforma diseñada para sincroniz
 
 ## Instalación y Descargas
 
-La aplicación está disponible precompilada para Windows y múltiples distribuciones de Linux en la sección de [Releases](../../releases/latest).
+La aplicación está disponible precompilada para Windows y múltiples distribuciones de Linux.
+
+### Windows
+
+Ve a la pestaña de [Releases](../../releases/latest), descarga el archivo `Instalador_SincronizadorDota.exe` y sigue los pasos del asistente de instalación.
 
 ### Arch Linux / Manjaro / EndeavourOS (Recomendado)
 El programa está publicado oficialmente en el Arch User Repository (AUR). Puedes instalarlo en segundos utilizando tu ayudante favorito (como `yay` o `paru`):
 
 ```bash
 yay -S dota-config-sync-bin
+```
+
+### Debian / Ubuntu / Linux Mint
+
+Descarga el archivo `.deb` desde la pestaña de [Releases](../../releases/latest) y haz doble clic sobre él para instalarlo, o utiliza la terminal:
+
+```bash
+sudo dpkg -i dota_config_sync-*-linux.deb
+```
+
+### Otras distribuciones de Linux
+
+Si utilizas Fedora, openSUSE u otra distribución Linux, descarga el archivo `.AppImage` desde la pestaña de [Releases](../../releases/latest).
+
+1. Haz clic derecho sobre el archivo.
+2. Selecciona **Propiedades** → **Permisos**.
+3. Marca la opción **Permitir ejecutar el archivo como un programa**.
+4. Haz doble clic para ejecutarlo.
