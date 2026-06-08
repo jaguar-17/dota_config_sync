@@ -33,7 +33,7 @@ La aplicación está disponible precompilada para Windows y múltiples distribuc
 
 ### Windows
 
-Ve a la pestaña de [Releases](../../releases/latest), descarga el archivo `Instalador_SincronizadorDota.exe` y sigue los pasos del asistente de instalación.
+Ve a la pestaña de [Releases](../../releases/latest), descarga el archivo `Instalador_SincronizadorDota.exe` ó dale click [aqui](https://github.com/jaguar-17/dota_config_sync/releases/download/v1.0.0/Instalador_SincronizadorDota.exe) y sigue los pasos del asistente de instalación.
 
 ### Arch Linux / Manjaro / EndeavourOS (Recomendado)
 El programa está publicado oficialmente en el Arch User Repository (AUR). Puedes instalarlo en segundos utilizando tu ayudante favorito (como `yay` o `paru`):
